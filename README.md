@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Scores
 
 insert scores here
+[Scores](http://www.viciouspotato.net/)
 
 ```markdown
 Syntax highlighted code block
