@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Scores
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+insert scores here
 
 ```markdown
 Syntax highlighted code block
