@@ -1,1 +1,1 @@
-<h1> <a href="https://hydra19.github.io/Hydra19.github.io/README.md">Home</a> <a href="https://hydra19.github.io/Hydra19.github.io/Scores.md">Scores</a> <a href="https://hydra19.github.io/Hydra19.github.io/HowToPlay.md">How to play</a> Game </h1>
+## [Home](https://hydra19.github.io/README.html) [Scores](https://hydra19.github.io/Scores.html) [How to play](https://hydra19.github.io/HowToPlay.html) Game
