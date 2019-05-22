@@ -1,6 +1,7 @@
 # Home
 Home of the game
-## Scores
+## [Scores](Hydra19.github.io/Scores.html)
+
 Scores of players who played the game
 
 |Player|Score|
