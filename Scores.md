@@ -1,5 +1,3 @@
-<html>
-
 ## [Home](https://hydra19.github.io/README.html) Scores [How to play](https://hydra19.github.io/Scores.html) [Game](https://hydra19.github.io/Game.html)
 
 Scores of the top twenty people who have played
@@ -8,26 +6,4 @@ Scores of the top twenty people who have played
 |------|-----|
 |Ross  | 10  |
 
-<body>
-        <!-- <script src="http://d3js.org/d3.v3.min.js"></script> -->
-        <script src="d3.min.js?v=3.2.8"></script>
 
-        <script type="text/javascript"charset="utf-8">
-            d3.text("Book1.csv", function(data) {
-                var parsedCSV = d3.csv.parseRows(data);
-
-                var container = d3.select("body")
-                    .append("table")
-
-                    .selectAll("tr")
-                        .data(parsedCSV).enter()
-                        .append("tr")
-
-                    .selectAll("td")
-                        .data(function(d) { return d; }).enter()
-                        .append("td")
-                        .text(function(d) { return d; });
-            });
-        </script>
-    </body>
-</html>
