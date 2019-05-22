@@ -8,9 +8,9 @@ Scores of players who played the game
 |------|-----|
 |Ross  | 10  |
 
-## How to play
+## [How to play](Hydra19.github.io/HowToPlay.html)
 Follow instructions
-## Game
+## [Game](Hydra19.github.io/HowToPlay.html)
 Actual version of the game
 
 
