@@ -1,6 +1,6 @@
-## Home
+# Home
 Home of the game
-### Scores
+## Scores
 Scores of players who played the game
-### Game
+## Game
 Actual version of the game
