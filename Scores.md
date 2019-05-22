@@ -23,10 +23,10 @@ Scores of the top twenty people who have played
                                     .data(parsedCSV).enter()
                                     .append("tr")
             
-                                .selectAll("td")
+                               .selectAll("td")
                                     .data(function(d) { return d; }).enter()
                                     .append("td")
                                     .text(function(d) { return d; });
                         });
-             </script>
+           </script>
 </body>
