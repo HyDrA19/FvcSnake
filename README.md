@@ -6,6 +6,7 @@ Scores of players who played the game
 Follow instructions
 ## Game
 Actual version of the game
+
 |Player|Score|
 |------|-----|
 |Ross  | 10  |
