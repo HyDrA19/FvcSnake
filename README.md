@@ -1,16 +1,3 @@
-# Home
-Home of the game
-## [Scores](Hydra19.github.io/Scores.html)
-
-Scores of players who played the game
-
-|Player|Score|
-|------|-----|
-|Ross  | 10  |
-
-## [How to play](Hydra19.github.io/HowToPlay.html)
-Follow instructions
-## [Game](Hydra19.github.io/HowToPlay.html)
-Actual version of the game
+<h1> Home <a href="https://hydra19.github.io/Hydra19.github.io/Scores.md">Scores</a> <a href="https://hydra19.github.io/Hydra19.github.io/HowToPlay.md">How to play</a> <a href="https://hydra19.github.io/Hydra19.github.io/Game.md">Game</a> </h1>
 
 
