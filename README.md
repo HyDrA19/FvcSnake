@@ -1,4 +1,4 @@
-## [Game](Hydra19.github.io/Game.md)
+## [Game](Hydra19.github.io/Game.html)
 
 
-<p> infomration about game etc </p>
+<p> information about game etc </p>
