@@ -23,7 +23,7 @@
       }
       #score {
         text-align: Center;
-        font-size: 80px;
+        font-size: 70px;
         font-family: 'Antic Slab', serif;
       }
     </style>
