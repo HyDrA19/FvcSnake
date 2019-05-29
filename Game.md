@@ -2,13 +2,6 @@
 
 
 
-
-
-
-
-
-
-
 <html>
   <head>
   	<title>Snake Game</title>
@@ -30,7 +23,7 @@
       }
       #score {
         text-align: Center;
-        font-size: 90px;
+        font-size: 80px;
         font-family: 'Antic Slab', serif;
       }
     </style>
