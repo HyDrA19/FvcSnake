@@ -30,7 +30,7 @@
       }
       #score {
         text-align: Center;
-        font-size: 100px;
+        font-size: 90px;
         font-family: 'Antic Slab', serif;
       }
     </style>
