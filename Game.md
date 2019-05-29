@@ -7,7 +7,7 @@
 
 
 
-##
+
 
 <html>
   <head>
@@ -23,13 +23,13 @@
 
     <style>
       #gameCanvas {
-        position: absolute;
+        position: SOUTH;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
       }
       #score {
-        text-align: center;
+        text-align: NORTH;
         font-size: 140px;
         font-family: 'Antic Slab', serif;
       }
