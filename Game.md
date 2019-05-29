@@ -23,14 +23,14 @@
 
     <style>
       #gameCanvas {
-        position: SOUTH;
+        position: absolute;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
       }
       #score {
-        text-align: NORTH;
-        font-size: 140px;
+        text-align: Center;
+        font-size: 100;
         font-family: 'Antic Slab', serif;
       }
     </style>
