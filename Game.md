@@ -30,13 +30,13 @@
   </body>
 
   <script>
-    const GAME_SPEED = 50;
+    const GAME_SPEED = 60;
     const CANVAS_BORDER_COLOUR = 'black';
-    const CANVAS_BACKGROUND_COLOUR = "Blue";
-    const SNAKE_COLOUR = 'Red';
-    const SNAKE_BORDER_COLOUR = 'darkgreen';
-    const FOOD_COLOUR = 'Purple';
-    const FOOD_BORDER_COLOUR = 'darkred';
+    const CANVAS_BACKGROUND_COLOUR = "white";
+    const SNAKE_COLOUR = 'Blue';
+    const SNAKE_BORDER_COLOUR = 'Black';
+    const FOOD_COLOUR = 'Yellow';
+    const FOOD_BORDER_COLOUR = 'Orange';
     let snake = [
       {x: 150, y: 150},
       {x: 140, y: 150},
