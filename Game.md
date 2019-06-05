@@ -30,7 +30,7 @@
   </body>
 
   <script>
-    const GAME_SPEED = 500;
+    const GAME_SPEED = 20;
     const CANVAS_BORDER_COLOUR = 'black';
     const CANVAS_BACKGROUND_COLOUR = "Blue";
     const SNAKE_COLOUR = 'Red';
