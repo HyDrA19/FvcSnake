@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
         <head>
             <title>Snake</title>
@@ -9,9 +8,9 @@
                 }
            </style>
 		   <script src="score.js"></script>
-           <script src="game.js"></script>
-           <script src="snake.js"></script>
-           <script src="food.js"></script>
+           <script src="https://hydra19.github.io/game.js"></script>
+           <script src="https://hydra19.github.io/snake.js"></script>
+           <script src="https://hydra19.github.io/food.js"></script>
         </head>
         <body onload="main()">
           <canvas width=400px height=400px id=canvas></canvas>
