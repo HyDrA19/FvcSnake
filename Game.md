@@ -25,7 +25,7 @@
         transform: translate(-50%, -50%);
       }
       #score {
-        text-align: absolute;
+        text-align: Center;
         font-size: 70px;
         font-family: 'Antic Slab', serif;
       }
