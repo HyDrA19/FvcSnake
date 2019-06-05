@@ -14,11 +14,12 @@
   <body>
 
     <div id="score">0</div>
+    <br>
     <canvas id="gameCanvas" width="400" height="400"></canvas>
 
     <style>
       #gameCanvas {
-        position: center;
+        position: absolute;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
