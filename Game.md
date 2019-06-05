@@ -16,13 +16,13 @@
 
     <style>
       #gameCanvas {
-        position: south;
+        position: absolute;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
       }
       #score {
-        text-align: North;
+        text-align: Center;
         font-size: 70px;
         font-family: 'Antic Slab', serif;
       }
