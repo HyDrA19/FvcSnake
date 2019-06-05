@@ -25,6 +25,7 @@
 				  //getScores(args);
 				  //convertArrayOfObjectsToCSV(args);
 				  //downloadCSV(args);
+			window.location.href = 'https://hydra19.github.io';
                 }
               
               if((food.x == snake.tail[i].x && food.y == snake.tail[i].y) || (food.x == snake.head.x && food.y == snake.head.y))
