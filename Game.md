@@ -1,6 +1,8 @@
 ## [Home](https://hydra19.github.io) [How to play](https://hydra19.github.io/HowToPlay.html) Game
 
-
+<br>
+<br>
+<br>
 
 <html>
   <head>
