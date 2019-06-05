@@ -22,7 +22,7 @@
         transform: translate(-50%, -50%);
       }
       #score {
-        text-align: Center;
+        text-align: North;
         font-size: 70px;
         font-family: 'Antic Slab', serif;
       }
