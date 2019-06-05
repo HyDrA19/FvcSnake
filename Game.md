@@ -12,7 +12,7 @@
   <body>
 
     <div id="score">0</div>
-    <canvas id="gameCanvas" width="300" height="300"></canvas>
+    <canvas id="gameCanvas" width="400" height="400"></canvas>
 
     <style>
       #gameCanvas {
