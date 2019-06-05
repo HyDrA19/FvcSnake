@@ -1,9 +1,5 @@
 ## [Home](https://hydra19.github.io) [How to play](https://hydra19.github.io/HowToPlay.html) Game
 
-<br>
-<br>
-<br>
-<br>
 
 <html>
   <head>
@@ -15,7 +11,7 @@
   <body>
 
     <div id="score">0</div>
-    <canvas id="gameCanvas" width="300" height="300"></canvas>
+    <canvas id="gameCanvas" width="900" height="900"></canvas>
 
     <style>
       #gameCanvas {
