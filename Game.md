@@ -1,6 +1,9 @@
 ## [Home](https://hydra19.github.io) [How to play](https://hydra19.github.io/HowToPlay.html) Game
 
-
+<br>
+<br>
+<br>
+<br>
 
 <html>
   <head>
@@ -22,7 +25,7 @@
         transform: translate(-50%, -50%);
       }
       #score {
-        text-align: Center;
+        text-align: absolute;
         font-size: 70px;
         font-family: 'Antic Slab', serif;
       }
