@@ -1,2 +1,5 @@
+name = scores[name];
+
+
 ID,PlayerName,Score
-1,SAM,100
+1,name,100
