@@ -22,9 +22,9 @@
                   alert("Game Over");
                   snake = new Snake(0, 4, 5, cell);
 				  var person = prompt("Please enter your name", "AAA");
-				  //getScores(args);
-				  //convertArrayOfObjectsToCSV(args);
-				  //downloadCSV(args);
+				  getScores(args);
+				  convertArrayOfObjectsToCSV(args);
+				  downloadCSV(args);
 			
                 }
               
